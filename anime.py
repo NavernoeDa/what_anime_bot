@@ -6,7 +6,7 @@ import requests
 
 load_dotenv('../arhive/config.env')
 
-bot = TeleBot('1835429009:AAEPpAvP3lz7zzr8GYx3bEzQxaF8-JOkZdo')
+bot = TeleBot('')
 
 
 def download(message):
