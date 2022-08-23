@@ -1,10 +1,7 @@
 from base64 import b64encode
 
 from telebot import TeleBot
-from dotenv import load_dotenv
 import requests
-
-load_dotenv('../arhive/config.env')
 
 bot = TeleBot('')
 
